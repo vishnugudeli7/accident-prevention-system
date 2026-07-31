@@ -24,22 +24,24 @@ When an object is detected within a predefined distance, the IR sensor sends a s
 
 ## 🛠️ Hardware Components
 
-- IR Sensor
-- Microcontroller
-- Buzzer
-- Breadboard
-- Jumper Wires
-- Power Supply
+## 🛠️ Hardware Components
 
+| Component | Purpose |
+|-----------|---------|
+| IR Sensor | Detects nearby obstacles |
+| Microcontroller | Processes sensor input |
+| Buzzer | Provides warning alerts |
+| Breadboard | Circuit prototyping |
+| Jumper Wires | Hardware connections |
+| Power Supply | Powers the circuit |
 ---
 
 ## 💻 Technologies Used
 
 - Embedded Systems
 - Electronics
-- IR Sensors
+- IR Sensor Technology
 - Microcontroller Programming
-
 ---
 
 ## ⚙️ Working Principle
@@ -71,15 +73,11 @@ When an object is detected within a predefined distance, the IR sensor sends a s
 
 ---
 
-## 📷 Project Images
-
-Project images, circuit diagrams, and hardware setup will be added soon.
-
----
-
 ## 👨‍💻 Author
 
 **Vishnu Gudeli**
 
 - GitHub: https://github.com/vishnugudeli7
 - LinkedIn: https://www.linkedin.com/in/vishnu-gudeli-957a56243/
+
+⭐ If you found this project useful, consider giving it a star.
